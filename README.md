@@ -10,7 +10,7 @@ O projeto consiste numa página com algumas opções, como: escrever, publicar e
 Clone o repositório:
    ```bash
    git clone https://github.com/Gustavo-Aranda/diario
-   cd <NOME_DA_PASTA_DO_PROJETO>
+   cd diario
    ```
 
 Ative o ambiente virtual já criado:
